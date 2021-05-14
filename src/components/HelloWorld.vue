@@ -1,6 +1,11 @@
 <template>
   <div>
-    
+    {{msg}}
+    欢迎
+    <ul>
+      <li class="item">标题</li>
+    </ul>
+    <router-view></router-view>
   </div>
 </template>
 
