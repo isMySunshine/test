@@ -15,7 +15,7 @@ export default {
 
 
 <style lang="scss" scoped>
-     .text_style{
+    .text_style{
         color: red;
     }
 </style>
